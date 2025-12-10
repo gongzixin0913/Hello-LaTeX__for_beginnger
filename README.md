@@ -11,4 +11,5 @@
 # Note!
 
 如果经常需要写论文且习惯使用VS code工作，建议使用VS code编写LaTex。
+
 当然，如果只是需要快速使用LaTex，更加推荐使用在线的LaTex工具。
